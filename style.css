@@ -1,0 +1,33 @@
+main {
+  margin: auto;
+  width: 1000px;
+  height: 1000px;
+  background-color: navy;
+  font-family: Helvetica;
+}
+
+h1 {
+  font-size: 36px;
+  text-align: center;
+  text-decoration: underline;
+  color: burlywood;
+  margin: auto;
+  padding: 80px;
+}
+
+h2>a {
+  color: white;
+}
+
+h2 {
+  font-family: Helvetica;
+  text-align: center;
+  padding-bottom: 20px;
+  color: white;
+}
+
+ul,
+li,
+a {
+  color: gold;
+}
